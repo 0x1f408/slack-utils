@@ -1,0 +1,5 @@
+# Define what this app should target
+channels:
+  include:
+
+  exclude:

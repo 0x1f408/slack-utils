@@ -1,0 +1,11 @@
+# API access information for Slack
+# Using legacy API tokens
+
+# Client ID - should be format 'XXXXXXXXXXX.XXXXXXXXXXXX'
+client_id: ''
+
+# Client secret - should be format 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+client_secret: ''
+
+# Legacy API access token - starts with xoxp-*
+token: ''
